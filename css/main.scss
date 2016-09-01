@@ -475,6 +475,23 @@ menu{
     }
   }
 }
+.slider{
+  max-width: 400px;
+  margin: 0 auto;
+  .slides{
+    .caption.h5{
+      color: white;
+      margin-top: 200px;
+    }
+    .light{
+      color: black;
+    }
+  }
+}
+h5{
+  color: white;
+  margin-top: 200px;
+}
 
 // .vcita{
 //   min-height: 600px;

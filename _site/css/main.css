@@ -2664,3 +2664,9 @@ menu li { list-style-type: no; display: inline-block; padding: 0 10px; }
 .card.member-grid.center .card-action { padding-top: 10px; }
 .card.member-grid.center .card-action p { height: 50px; }
 .card.member-grid.center .card-action li { list-style-type: none; }
+
+.slider { max-width: 400px; margin: 0 auto; }
+.slider .slides .caption.h5 { color: white; margin-top: 200px; }
+.slider .slides .light, .slider .slides footer.page-footer .footer-copyright, footer.page-footer .slider .slides .footer-copyright { color: black; }
+
+h5 { color: white; margin-top: 200px; }
