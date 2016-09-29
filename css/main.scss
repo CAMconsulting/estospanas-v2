@@ -402,10 +402,11 @@ nav .button-collapse i {
   a{
     color: #1F9687;
     font-weight: bold;
+    font-size: 1.16em;
   }
   .card-link{
     color: #039be5;
-
+    font-style: italic;
     font-weight: normal;
     // text-decoration: underline;
     // position: absolute;
@@ -422,7 +423,7 @@ nav .button-collapse i {
   }
   .excerpt{
     color: #000;
-    font-style: italic;
+
     font-weight: normal;
     padding: 10px 0;
     // position: absolute;
@@ -431,19 +432,19 @@ nav .button-collapse i {
   }
 
 }
-// .thumbnail {
-//   position: relative;
-//   width: 200px;
-//   height: 200px;
-//   overflow: hidden;
-// }
-// .thumbnail img {
-//   position: absolute;
-//   left: 50%;
-//   top: 50%;
-//   height: 100%;
-//   width: auto;
-//   -webkit-transform: translate(-50%,-50%);
-//       -ms-transform: translate(-50%,-50%);
-//           transform: translate(-50%,-50%);
-// }
+.thumbnail {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}

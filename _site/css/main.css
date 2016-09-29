@@ -2652,8 +2652,12 @@ nav .button-collapse i { color: #df716e; }
 .slider .slides h5 { color: white; margin-top: 200px; }
 .slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
 
-.grid-item a { color: #1F9687; font-weight: bold; }
-.grid-item .card-link { color: #039be5; font-weight: normal; }
+.grid-item a { color: #1F9687; font-weight: bold; font-size: 1.16em; }
+.grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; }
 .grid-item .card .card-content { padding: 13px; }
 .grid-item .c-content { padding-right: 15px; position: absolute; bottom: 10px; }
-.grid-item .excerpt { color: #000; font-style: italic; font-weight: normal; padding: 10px 0; }
+.grid-item .excerpt { color: #000; font-weight: normal; padding: 10px 0; }
+
+.thumbnail { position: relative; width: 200px; height: 200px; overflow: hidden; }
+
+.thumbnail img { position: absolute; left: 50%; top: 50%; height: 100%; width: auto; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
