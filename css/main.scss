@@ -405,16 +405,30 @@ nav .button-collapse i {
   }
   .card-link{
     color: #039be5;
-    font-style: italic;
+
     font-weight: normal;
-    text-decoration: underline;
-    position: absolute;
-    bottom: 10px;
+    // text-decoration: underline;
+    // position: absolute;
+    // bottom: 20px;
   }
   .card .card-content {
     padding: 13px;
 
 }
+  .c-content{
+    padding-right: 15px;
+    position: absolute;
+    bottom: 10px;
+  }
+  .excerpt{
+    color: #000;
+    font-style: italic;
+    font-weight: normal;
+    padding: 10px 0;
+    // position: absolute;
+    // bottom: 40px;
+
+  }
 
 }
 // .thumbnail {

@@ -13,7 +13,7 @@ layout: page
         {% for post in site.posts %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <li class="grid-item col s12 m6">
-            <div class="card small hoverable">
+            <div class="card medium hoverable">
               <div class="card-image">
                 <img class="thumbnail portrait" src="{{post.image}}"/>
 
@@ -21,7 +21,15 @@ layout: page
               </div>
               <div class="card-content">
 
-                  <span>{{ post.title }}<br><a class="card-link" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a></span>
+
+                  <span>{{ post.title }}</span><br>
+                    <div class="c-content">
+                      <span class="excerpt">{{ post.excerpt }}</span><br>
+
+                    <a class="card-link" href="{{ post.url | prepend: site.baseurl }}">Leer más...   </a></span>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                    </div>
 
 
               </div>
