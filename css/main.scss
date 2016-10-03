@@ -402,7 +402,7 @@ nav .button-collapse i {
   a{
     color: #1F9687;
     font-weight: bold;
-    font-size: 1.16em;
+    font-size: 1.4em;
   }
   .card-link{
     color: #039be5;
@@ -426,16 +426,20 @@ nav .button-collapse i {
 
     font-weight: normal;
     padding: 10px 0;
-    font-size: 0.85em;
+    font-size: 0.7em;
     // position: absolute;
     // bottom: 40px;
 
   }
+  .card .card-image img {
+    height: 220px;
+    
+}
 
 }
 .thumbnail.responsive-img {
   position: relative;
-  height: 210px;
+  height: 250px;
   overflow: hidden;
   position: absolute;
    left: 50%;
