@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://127.0.0.1:4000/estospanas-v2/bio/2016/10/03/latinoamericanos-exitosos-Rafael-Reif.html</loc>
-<lastmod>2016-10-03T00:00:00+02:00</lastmod>
+<loc>http://127.0.0.1:4000/estospanas-v2/opinion/2016/10/06/emprendimiento-carla-rodriguez.html</loc>
+<lastmod>2016-10-06T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://127.0.0.1:4000/estospanas-v2/bio/2016/10/05/latinoamericanos-exitosos-Rafael-Reif.html</loc>
+<lastmod>2016-10-05T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://127.0.0.1:4000/estospanas-v2/bio/2016/10/04/por-que-emprender.html</loc>
+<lastmod>2016-10-04T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://127.0.0.1:4000/estospanas-v2/opinion/2016/09/28/maria-teresa-arnal-twitter.html</loc>
@@ -40,6 +48,9 @@
 </url>
 <url>
 <loc>http://127.0.0.1:4000/estospanas-v2/blog.html</loc>
+</url>
+<url>
+<loc>http://127.0.0.1:4000/estospanas-v2/carla-rodriguez.html</loc>
 </url>
 <url>
 <loc>http://127.0.0.1:4000/estospanas-v2/carlos-marchena.html</loc>

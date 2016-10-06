@@ -370,6 +370,9 @@ nav .button-collapse i {
 .slider{
   max-width: 400px;
   margin: 0 auto;
+  .large{
+    max-width: none;
+  }
   .slides{
     .caption.h5{
       color: white;
@@ -387,6 +390,18 @@ nav .button-collapse i {
     }
   }
 }
+
+
+.carousel .indicators .indicator-item {
+    height: 15px;
+    width: 15px;
+    margin: 24px 8px;
+  }
+.carousel .indicators .indicator-item.active {
+  background-color: #df716e;
+}
+
+
 
 // .vcita{
 //   min-height: 600px;
@@ -433,7 +448,7 @@ nav .button-collapse i {
   }
   .card .card-image img {
     height: 220px;
-    
+
 }
 
 }

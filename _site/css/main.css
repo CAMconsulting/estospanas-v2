@@ -2647,10 +2647,15 @@ nav .button-collapse i { color: #df716e; }
 .card.member-grid.center .card-action li { list-style-type: none; }
 
 .slider { max-width: 400px; margin: 0 auto; }
+.slider .large { max-width: none; }
 .slider .slides .caption.h5 { color: white; margin-top: 200px; }
 .slider .slides .light, .slider .slides footer.page-footer .footer-copyright, footer.page-footer .slider .slides .footer-copyright { color: black; }
 .slider .slides h5 { color: white; margin-top: 200px; }
 .slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
+
+.carousel .indicators .indicator-item { height: 15px; width: 15px; margin: 24px 8px; }
+
+.carousel .indicators .indicator-item.active { background-color: #df716e; }
 
 .grid-item a { color: #1F9687; font-weight: bold; font-size: 1.4em; }
 .grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; }
