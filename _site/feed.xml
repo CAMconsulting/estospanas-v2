@@ -5,12 +5,12 @@
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
     <link>http://127.0.0.1:4000/estospanas-v2/</link>
     <atom:link href="http://127.0.0.1:4000/estospanas-v2/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2016 17:05:27 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 17:05:27 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2016 17:16:01 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 17:16:01 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Historias de emprendimiento: Carla Rodríguez, Cayena Beachwear</title>
+        <title>Historias de emprendedores: Carla Rodríguez, Cayena Beachwear</title>
         <description>  &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col s12&quot;&gt;
       &lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/estospanas-v2/images/cayena_logofinal-01.jpeg&quot; alt=&quot;Venezuela Canción Flashmob&quot; /&gt;&lt;/center&gt;
@@ -32,13 +32,13 @@
       &lt;!--         Slider              --&gt;
 
       &lt;div class=&quot;carousel carousel-slider center&quot;&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_001_1023.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_002_1095.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_003_1150.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_004_1234.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_005_1271.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_006_1300.jpeg&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;carousel-item&quot; href=&quot;https://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_008_1448.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_001_1023.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_002_1095.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_003_1150.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_004_1234.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_005_1271.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_006_1300.jpeg&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;carousel-item&quot; href=&quot;http://cayenabeachwear.com&quot;&gt;&lt;img src=&quot;/estospanas-v2/images/cayena_imagen_008_1448.jpeg&quot;&gt;&lt;/a&gt;
 
 
 
